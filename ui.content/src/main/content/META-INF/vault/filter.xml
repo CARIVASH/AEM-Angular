@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<workspaceFilter version="1.0">
+    <filter root="/conf/angular-project" mode="merge"/>
+    <filter root="/content/angular-project" mode="merge"/>
+    <filter root="/content/dam/angular-project" mode="merge"/>
+    <filter root="/content/experience-fragments/angular-project" mode="merge"/>
+</workspaceFilter>
